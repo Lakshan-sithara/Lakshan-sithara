@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 <!-- 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Android development
--⚡ Fun fact: reading books
+-⚡ Fun fact: reading story books
 - I'm computer Science student
 - practics versin controling
 <!-- - 👯 I’m looking to collaborate on ...
